@@ -1,0 +1,9 @@
+CACHE MANIFEST
+# this is just a test
+
+CACHE:
+index.html
+style.css
+bower_components/jquery/dist/jquery.min.js
+bower_components/jquery.countdown/dist/jquery.countdown.min.js
+bower_components/lodash/lodash.min.js
